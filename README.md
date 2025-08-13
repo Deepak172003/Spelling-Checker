@@ -17,5 +17,5 @@ It uses TextBlob for spelling correction, LanguageTool for grammar checking, and
 ---
 
 ## 🖥️ Screenshot
-
+[image](https://github.com/Deepak172003/Spelling-Checker/blob/515b08a6e82e5168b7ecbdd2ca274fb194df1289/Screenshot%20(84).png)
 
